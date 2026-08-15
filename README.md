@@ -574,7 +574,7 @@ Shuyang Gao, Greg Ver Steeg, Aram Galstyan\
 
 <br>
 
-🐤 **`MINE`: Mutual Information Neural Estimation** \[[link](https://arxiv.org/abs/1801.04062)] \[[code](https://github.com/gtegner/mine-pytorch) ⭐ 361 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-09-28] \
+🐤 **`MINE`: Mutual Information Neural Estimation** \[[link](https://arxiv.org/abs/1801.04062)] \[[code](https://github.com/gtegner/mine-pytorch) ⭐ 362 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-09-28] \
 Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm\
 *ICML, 2018* <br>
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
