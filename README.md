@@ -24,7 +24,7 @@ This repository is organized as follows:
 
 All papers are selected and sorted by topic/conference/year/importance. Please send a pull request if you would like to add any paper.
 
-We also made [slides on theory, applications and controversy](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck/blob/main/IB-Intro-Ye.pdf) ⭐ 401 | 🐛 0 | 📅 2026-02-12 for the initial Information Bottleneck principle in deep learning (*p.s.*, some controversy has been addressed by recent publications, *e.g.*, [Lorenzen et al., 2021](http://arxiv.org/abs/2106.12912v1)).
+We also made [slides on theory, applications and controversy](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck/blob/main/IB-Intro-Ye.pdf) ⭐ 402 | 🐛 0 | 📅 2026-02-12 for the initial Information Bottleneck principle in deep learning (*p.s.*, some controversy has been addressed by recent publications, *e.g.*, [Lorenzen et al., 2021](http://arxiv.org/abs/2106.12912v1)).
 
 ## 1. Classics
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
