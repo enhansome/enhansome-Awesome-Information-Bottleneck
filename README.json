@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T09:00:14.113Z",
-    "original_repository": "ZIYU-DEEP/Awesome-Information-Bottleneck",
-    "original_repository_id": 404673745,
+    "last_updated": "2026-08-27T11:24:31.555Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 404673745,
+      "language": null,
+      "last_commit": "2026-02-12T06:53:20Z",
+      "owner": "ZIYU-DEEP",
+      "repo": "Awesome-Information-Bottleneck",
+      "stars": 402
+    },
     "original_repository_sha": "a0ce89966cb5569ac5dd7713cad0b4013a513c99",
     "enhanced_repository": "enhansome/enhansome-Awesome-Information-Bottleneck",
     "enhanced_repository_description": null,
