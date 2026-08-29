@@ -1,15 +1,27 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T20:11:14.137Z",
+    "last_updated": "2026-08-29T04:47:13.354Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This is a curated list for Information Bottleneck Principle, in memory of Professor Naftali Tishby.",
+      "homepage": null,
       "id": 404673745,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-02-12T06:53:20Z",
+      "open_issues": 0,
       "owner": "ZIYU-DEEP",
       "repo": "Awesome-Information-Bottleneck",
-      "stars": 402
+      "stars": 402,
+      "topics": [
+        "awesome-list",
+        "deep-learning",
+        "deep-neural-networks",
+        "deep-reinforcement-learning",
+        "information",
+        "information-bottleneck"
+      ]
     },
     "original_repository_sha": "a0ce89966cb5569ac5dd7713cad0b4013a513c99",
     "enhanced_repository": "enhansome/enhansome-Awesome-Information-Bottleneck",
