@@ -525,7 +525,7 @@ Vincent Pacelli, Anirudha Majumdar\
 Iulian Vlad Serban, Chinnadhurai Sankar, Michael Pieper, Joelle Pineau, Yoshua Bengio\
 *Journal of Artificial Intelligence Research (JAIR), 2020* <br>
 
-**Learning Robust Representations via Multi-View Information Bottleneck** \[[link](https://openreview.net/forum?id=B1xwcyHFDr)] \[[code](https://github.com/mfederici/Multi-View-Information-Bottleneck) ⭐ 140 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2020-05-27] \[[talk](https://iclr.cc/virtual_2020/poster_B1xwcyHFDr.html)]\
+**Learning Robust Representations via Multi-View Information Bottleneck** \[[link](https://openreview.net/forum?id=B1xwcyHFDr)] \[[code](https://github.com/mfederici/Multi-View-Information-Bottleneck) ⭐ 141 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2020-05-27] \[[talk](https://iclr.cc/virtual_2020/poster_B1xwcyHFDr.html)]\
 Marco Federici, Anjan Dutta, Patrick Forré, Nate Kushman, Zeynep Akata\
 *ICLR, 2020* <br>
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
