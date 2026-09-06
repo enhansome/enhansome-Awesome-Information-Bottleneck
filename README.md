@@ -498,7 +498,7 @@ Yuchun Miao, Sen Zhang, Liang Ding, Rong Bao, Lefei Zhang, Dacheng Tao\\\
 
 ## 6. Applications (RL)
 
-**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,503 | 🐛 27 | 🌐 Python | 📅 2026-08-24]\
+**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,503 | 🐛 24 | 🌐 Python | 📅 2026-09-05]\
 Anirudh Goyal, Riashat Islam, DJ Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine\
 *ICLR, 2019*
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
