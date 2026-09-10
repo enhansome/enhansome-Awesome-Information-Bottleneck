@@ -864,7 +864,7 @@ Fan-Yun Sun, Jordan Hoffman, Vikas Verma, Jian Tang\
 Lingpeng Kong, Cyprien de Masson d'Autume, Lei Yu, Wang Ling, Zihang Dai, Dani Yogatama\
 *ICLR, 2020* <br>
 
-**CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information** \[[link](https://proceedings.mlr.press/v119/cheng20b.html)] \[[code](https://github.com/Linear95/CLUB) ⭐ 362 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-05-10] \
+**CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information** \[[link](https://proceedings.mlr.press/v119/cheng20b.html)] \[[code](https://github.com/Linear95/CLUB) ⭐ 363 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-05-10] \
 Pengyu Cheng, Weituo Hao, Shuyang Dai, Jiachang Liu, Zhe Gan, Lawrence Carin\
 *ICML, 2020* <br>
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
