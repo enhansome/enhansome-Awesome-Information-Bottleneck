@@ -792,7 +792,7 @@ Ziv Goldfeld, Ewout Van Den Berg, Kristjan Greenewald, Igor Melnyk, Nam Nguyen, 
 Alexander Golovnev, David Pal, Balazs Szorenyi\
 *ICML, 2019* <br>
 
-**EMI: Exploration with Mutual Information** \[[link](https://proceedings.mlr.press/v97/kim19a.html)] \[[code](https://github.com/snu-mllab/EMI) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2020-12-07] \
+**EMI: Exploration with Mutual Information** \[[link](https://proceedings.mlr.press/v97/kim19a.html)] \[[code](https://github.com/snu-mllab/EMI) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2020-12-07] \
 Hyoungseok Kim, Jaekyeom Kim, Yeonwoo Jeong, Sergey Levine, Hyun Oh Song\
 *ICML, 2019* <br>
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
