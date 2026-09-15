@@ -498,7 +498,7 @@ Yuchun Miao, Sen Zhang, Liang Ding, Rong Bao, Lefei Zhang, Dacheng Tao\\\
 
 ## 6. Applications (RL)
 
-**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,508 | 🐛 23 | 🌐 Python | 📅 2026-09-10]\
+**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,509 | 🐛 23 | 🌐 Python | 📅 2026-09-10]\
 Anirudh Goyal, Riashat Islam, DJ Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine\
 *ICLR, 2019*
 
@@ -553,7 +553,7 @@ Botao Hao, Tor Lattimore\
 
 > 😣😣😣 Mutual information is notoriously hard to estimate!
 
-🐤 **Benchmarking Mutual Information** \[[link](https://arxiv.org/pdf/2306.11078.pdf)] \[[code](https://github.com/cbg-ethz/bmi) ⭐ 63 | 🐛 12 | 🌐 Python | 📅 2025-09-16] \[[doc](https://cbg-ethz.github.io/bmi/#getting-started)] \
+🐤 **Benchmarking Mutual Information** \[[link](https://arxiv.org/pdf/2306.11078.pdf)] \[[code](https://github.com/cbg-ethz/bmi) ⭐ 64 | 🐛 12 | 🌐 Python | 📅 2025-09-16] \[[doc](https://cbg-ethz.github.io/bmi/#getting-started)] \
 Paweł Czyż, Frederic Grabowski, Julia E. Vogt, Niko Beerenwinkel, Alexander Marx\
 *NeurIPS, 2023* <br>
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
