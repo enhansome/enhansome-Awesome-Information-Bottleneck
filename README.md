@@ -24,7 +24,7 @@ This repository is organized as follows:
 
 All papers are selected and sorted by topic/conference/year/importance. Please send a pull request if you would like to add any paper.
 
-We also made [slides on theory, applications and controversy](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck/blob/main/IB-Intro-Ye.pdf) ⭐ 403 | 🐛 0 | 📅 2026-02-12 for the initial Information Bottleneck principle in deep learning (*p.s.*, some controversy has been addressed by recent publications, *e.g.*, [Lorenzen et al., 2021](http://arxiv.org/abs/2106.12912v1)).
+We also made [slides on theory, applications and controversy](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck/blob/main/IB-Intro-Ye.pdf) for the initial Information Bottleneck principle in deep learning (*p.s.*, some controversy has been addressed by recent publications, *e.g.*, [Lorenzen et al., 2021](http://arxiv.org/abs/2106.12912v1)).
 
 ## 1. Classics
 
@@ -498,7 +498,7 @@ Yuchun Miao, Sen Zhang, Liang Ding, Rong Bao, Lefei Zhang, Dacheng Tao\\\
 
 ## 6. Applications (RL)
 
-**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,516 | 🐛 25 | 🌐 Python | 📅 2026-09-10]\
+**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,516 | 🐛 26 | 🌐 Python | 📅 2026-09-10]\
 Anirudh Goyal, Riashat Islam, DJ Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine\
 *ICLR, 2019*
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
