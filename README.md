@@ -323,7 +323,7 @@ Roman Pogodin, Peter Latham\
 Lynton Ardizzone, Radek Mackowiak, Carsten Rother, Ullrich Köthe\
 *NeurIPS, 2020* <br>
 
-**Unsupervised Speech Decomposition via Triple Information Bottleneck** \[[link](https://proceedings.mlr.press/v119/qian20a.html)] \[[code](https://github.com/auspicious3000/SpeechSplit) ⭐ 698 | 🐛 31 | 🌐 Python | 📅 2024-10-23] \
+**Unsupervised Speech Decomposition via Triple Information Bottleneck** \[[link](https://proceedings.mlr.press/v119/qian20a.html)] \[[code](https://github.com/auspicious3000/SpeechSplit) ⭐ 696 | 🐛 31 | 🌐 Python | 📅 2024-10-23] \
 Kaizhi Qian, Yang Zhang, Shiyu Chang, Mark Hasegawa-Johnson, David Cox\
 *ICML, 2020* <br>
 
@@ -498,7 +498,7 @@ Yuchun Miao, Sen Zhang, Liang Ding, Rong Bao, Lefei Zhang, Dacheng Tao\\\
 
 ## 6. Applications (RL)
 
-**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,526 | 🐛 28 | 🌐 Python | 📅 2026-10-15]\
+**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,527 | 🐛 28 | 🌐 Python | 📅 2026-10-15]\
 Anirudh Goyal, Riashat Islam, DJ Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine\
 *ICLR, 2019*
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
