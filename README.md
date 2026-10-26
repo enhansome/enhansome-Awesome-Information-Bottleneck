@@ -498,7 +498,7 @@ Yuchun Miao, Sen Zhang, Liang Ding, Rong Bao, Lefei Zhang, Dacheng Tao\\\
 
 ## 6. Applications (RL)
 
-**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,530 | 🐛 32 | 🌐 Python | 📅 2026-10-15]\
+**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,532 | 🐛 32 | 🌐 Python | 📅 2026-10-15]\
 Anirudh Goyal, Riashat Islam, DJ Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine\
 *ICLR, 2019*
 
@@ -864,7 +864,7 @@ Fan-Yun Sun, Jordan Hoffman, Vikas Verma, Jian Tang\
 Lingpeng Kong, Cyprien de Masson d'Autume, Lei Yu, Wang Ling, Zihang Dai, Dani Yogatama\
 *ICLR, 2020* <br>
 
-**CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information** \[[link](https://proceedings.mlr.press/v119/cheng20b.html)] \[[code](https://github.com/Linear95/CLUB) ⭐ 363 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-05-10] \
+**CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information** \[[link](https://proceedings.mlr.press/v119/cheng20b.html)] \[[code](https://github.com/Linear95/CLUB) ⭐ 362 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-05-10] \
 Pengyu Cheng, Weituo Hao, Shuyang Dai, Jiachang Liu, Zhe Gan, Lawrence Carin\
 *ICML, 2020* <br>
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
