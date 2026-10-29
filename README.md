@@ -428,7 +428,7 @@ Jiameng Fan, Wenchao Li\
 <!--
 <br> -->
 
-**State Predictive Information Bottleneck** \[[link](https://arxiv.org/abs/2011.10127)] \[[code](https://github.com/tiwarylab/State-Predictive-Information-Bottleneck) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-31] \
+**State Predictive Information Bottleneck** \[[link](https://arxiv.org/abs/2011.10127)] \[[code](https://github.com/tiwarylab/State-Predictive-Information-Bottleneck) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-31] \
 Dedi Wang, Pratyush Tiwary\
 *Preprint, 2021* <br>
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
