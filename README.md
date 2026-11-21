@@ -498,7 +498,7 @@ Yuchun Miao, Sen Zhang, Liang Ding, Rong Bao, Lefei Zhang, Dacheng Tao\\\
 
 ## 6. Applications (RL)
 
-**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,544 | 🐛 37 | 🌐 Python | 📅 2026-11-14]\
+**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,543 | 🐛 37 | 🌐 Python | 📅 2026-11-14]\
 Anirudh Goyal, Riashat Islam, DJ Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine\
 *ICLR, 2019*
 
@@ -525,7 +525,7 @@ Vincent Pacelli, Anirudha Majumdar\
 Iulian Vlad Serban, Chinnadhurai Sankar, Michael Pieper, Joelle Pineau, Yoshua Bengio\
 *Journal of Artificial Intelligence Research (JAIR), 2020* <br>
 
-**Learning Robust Representations via Multi-View Information Bottleneck** \[[link](https://openreview.net/forum?id=B1xwcyHFDr)] \[[code](https://github.com/mfederici/Multi-View-Information-Bottleneck) ⭐ 141 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2020-05-27] \[[talk](https://iclr.cc/virtual_2020/poster_B1xwcyHFDr.html)]\
+**Learning Robust Representations via Multi-View Information Bottleneck** \[[link](https://openreview.net/forum?id=B1xwcyHFDr)] \[[code](https://github.com/mfederici/Multi-View-Information-Bottleneck) ⭐ 142 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2020-05-27] \[[talk](https://iclr.cc/virtual_2020/poster_B1xwcyHFDr.html)]\
 Marco Federici, Anjan Dutta, Patrick Forré, Nate Kushman, Zeynep Akata\
 *ICLR, 2020* <br>
 
@@ -598,7 +598,7 @@ Ziv Goldfeld, Ewout van den Berg, Kristjan Greenewald, Igor Melnyk, Nam Nguyen, 
 Sina Molavipour, Germán Bassi, Mikael Skoglund\
 *Preprint, 2020* <br>
 
-**`CCMI`: Classifier based Conditional Mutual Information Estimation** \[[link](https://arxiv.org/abs/1906.01824)] \[[code](https://github.com/sudiptodip15/CCMI) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2019-07-23] \
+**`CCMI`: Classifier based Conditional Mutual Information Estimation** \[[link](https://arxiv.org/abs/1906.01824)] \[[code](https://github.com/sudiptodip15/CCMI) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2019-07-23] \
 Sudipto Mukherjee, Himanshu Asnani, Sreeram Kannan\
 *UAI, 2020*
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
