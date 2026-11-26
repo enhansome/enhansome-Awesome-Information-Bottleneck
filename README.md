@@ -498,7 +498,7 @@ Yuchun Miao, Sen Zhang, Liang Ding, Rong Bao, Lefei Zhang, Dacheng Tao\\\
 
 ## 6. Applications (RL)
 
-**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,546 | 🐛 37 | 🌐 Python | 📅 2026-11-23]\
+**InfoBot: Transfer and Exploration via the Information Bottleneck** \[[paper](https://openreview.net/forum?id=rJg8yhAqKm)] \[[code](https://github.com/maximecb/gym-minigrid) ⭐ 2,547 | 🐛 37 | 🌐 Python | 📅 2026-11-23]\
 Anirudh Goyal, Riashat Islam, DJ Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine\
 *ICLR, 2019*
 
@@ -920,7 +920,7 @@ Willie Neiswanger, Ke Alexander Wang, Stefano Ermon\
 Alessandro Sordoni, Nouha Dziri, Hannes Schulz, Geoff Gordon, Philip Bachman, Remi Tachet Des Combes\
 *ICML, 2021* <br>
 
-**ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction** \[[link](https://arxiv.org/abs/2105.10446)] \[[code](https://github.com/ryanchankh/ReduNet) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2021-04-27] \
+**ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction** \[[link](https://arxiv.org/abs/2105.10446)] \[[code](https://github.com/ryanchankh/ReduNet) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2021-04-27] \
 Kwan Ho Ryan Chan, Yaodong Yu, Chong You, Haozhi Qi, John Wright, Yi Ma\
 *Preprint, 2021* <br>
 
@@ -962,4 +962,4 @@ If you would like to cite this repository 🐣:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
